@@ -1,4 +1,16 @@
 # Table of contents
 
 * [Initial page](README.md)
-
+* [Introduktion](Introduktion.md)
+* [Läsa](Läsa.md)
+* [Skriva](Skriva.md)
+* [Tala](Tala.md)
+* [Grammatik](Grammatik/README.md)
+    * [Fonologi och morfologi](Fonologi_och_morfologi.md)
+    * [Ordklasser](Ordklasser.md)
+    * [Meningar och satser](Meningar_och_satser.md)
+* [Språkvariation](Språkvariation/README.md)
+    * [Dialekter](Dialekter.md)
+    * [Sociolekter](Sociolekter.md)
+    * [Andra lekter](Andra_lekter.md)
+    * [Svordomar och slang](Svordomar_och_slang)
